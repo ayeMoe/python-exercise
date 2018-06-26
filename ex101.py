@@ -1,7 +1,7 @@
 
 tabby_pet = "\tI'm  tabbed in."
 persian_pet = "I'm spilt\non a line."
-backslash_pet = "I'm \\ a \\ cat."
+backslash_pet = "I'm \\ a \\ pet."
 
 fat_pet ="""
 I'll  do a list:
